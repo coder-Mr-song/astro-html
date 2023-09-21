@@ -1,17 +1,14 @@
 ---
-title: '我的第一篇博客文章'
-pubDate: 2022-07-01
+title: '博客'
+pubDate: 2023-09-20
 description: '这是我 Astro 博客的第一篇文章。'
 author: 'Astro 学习者'
-image:
-  url: 'https://docs.astro.build/assets/full-logo-light.png'
-  alt: 'The full Astro logo.'
-tags: ['astro', 'blogging', 'learning in public']
+heroImage: '/blog-placeholder-5.jpg'
 ---
 
 # 我的第一篇博客文章
 
-发表于：2022-07-01
+发表于：2023-09-20
 
 欢迎来到我学习关于 Astro 的新博客！在这里，我将分享我建立新网站的学习历程。
 
